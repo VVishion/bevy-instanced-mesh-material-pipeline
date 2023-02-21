@@ -1,5 +1,5 @@
 [package]
-name = "bevy_instanced_mesh_material_pipeline"
+name = "bevy-instanced-mesh-material-pipeline"
 version = "0.1.0"
 edition = "2021"
 
