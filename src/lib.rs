@@ -26,7 +26,7 @@ pub mod pipeline;
 #[derive(Clone, Copy, Pod, Zeroable)]
 #[repr(C)]
 pub struct Instance {
-    position: Vec3,
+    pub position: Vec3,
 }
 
 #[derive(Component, Deref)]
